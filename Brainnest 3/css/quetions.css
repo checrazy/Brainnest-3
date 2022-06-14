@@ -1,0 +1,33 @@
+body{
+    margin : 0;
+    background-color: black;
+    
+}
+
+.question{
+    margin-bottom: 20px;
+    width : 100%;
+    word-wrap: break-word;
+    color: aqua;
+    text-align: center;
+    
+}
+
+.list{
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width : 100%;
+    justify-content: space-around;
+}
+
+em{
+    color:white;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    
+}
